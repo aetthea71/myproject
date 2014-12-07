@@ -1,4 +1,5 @@
 // Class Demo untuk mensimulasikan Entry Point Program
+// Tambah Komentar baru
 public class Demo {
 
 	public static void main(String[] args) {
